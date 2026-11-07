@@ -30,7 +30,7 @@ I am a first-year Ph.D. candidate in the HKUST NLP Group at the Hong Kong Univer
 
 ## Publications
 
-A complete list of my publications is also available on the [Publications](/publications/) page and on [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
+A complete list of my publications is also available on the [Publications]({{ site.baseurl }}/publications/) page and on [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 ### First-author Papers
 
